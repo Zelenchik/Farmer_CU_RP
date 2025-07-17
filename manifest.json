@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Dolgostroi",
+        "description": "Но зато весело!",
+        "uuid": "7a13b196-da6d-4ac2-930a-3814f25456cc",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "6eb942c1-3d0c-46f7-a3b3-956105f712ac",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "product_type": "addon"
+    }
+}
