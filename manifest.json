@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Dolgostroi",
-        "description": "Но зато весело!",
+        "name": "Farmer_CU_RP",
+        "description": "Ща будет урожай!",
         "uuid": "7a13b196-da6d-4ac2-930a-3814f25456cc",
         "version": [1, 0, 0],
         "min_engine_version": [1, 16, 0]
