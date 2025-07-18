@@ -1,0 +1,10 @@
+{
+    "resource_pack_name":"crop_cu_rp",
+    "texture_name":"atlas.items",
+    "texture_data":{
+        "referense":{
+            "textures":"textures/referense"
+        }
+
+    }
+}
