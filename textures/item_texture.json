@@ -4,7 +4,29 @@
     "texture_data":{
         "referense":{
             "textures":"textures/referense"
+        },
+        "kavra_seeds":{
+            "textures":"textures/items/nature/seeds/kavra_seeds"
+        },
+        "dragon_pion_seeds":{
+            "textures":"textures/items/nature/seeds/dragon_pion_seeds"
+        },
+        "karelo_seeds":{
+            "textures":"textures/items/nature/seeds/karelo_seeds"
+        },
+        "kaspora_seeds":{
+            "textures":"textures/items/nature/seeds/kaspora_seeds"
+        },
+        "rice_seeds":{
+            "textures":"textures/items/nature/seeds/rice_seeds"
+        },
+        "sweet_berries_seeds":{
+            "textures":"textures/items/nature/seeds/sweet_berries_seeds"
+        },
+        "karrec_seed":{
+            "textures":"textures/items/nature/seeds/karrec_seed"
         }
+        
 
     }
 }
