@@ -1,0 +1,41 @@
+
+## Еда
+item.arx:sweet_berries_juice=§r§fСок из сладких ягод §7[Обычное]
+item.arx:default_bottle_sweet_berries_juice=§r§fСок из сладких ягод §7[Обычное]
+## Алкоголь 
+
+item.arx:young_wine=§r§fМолодое вино §a[Необычное]
+item.arx:ordinary_wine=§r§fВино §a[Необычное]
+item.arx:seasoned_wine=§r§fВыдержанное вино §b[Редкое]
+item.arx:vintage_wine=§r§fВинтажное вино §b[Редкое]
+item.arx:collection_wine=§r§fКоллекционное вино §g[Эпическое]
+
+item.arx:many_young_wine=§r§fМного молодого вина §a[Необычное]
+item.arx:many_ordinary_wine=§r§fМного вина §a[Необычное]
+item.arx:many_seasoned_wine=§r§fМного выдержанного вина §b[Редкое]
+item.arx:many_vintage_wine=§r§fМного винтажного вина §b[Редкое]
+item.arx:many_collection_wine=§r§fМного коллекционого вина §g[Эпическое]
+
+## Растения - ARX
+
+item.arx:kavra_seeds=§r§fСемена кавры §7[Обычное]
+item.arx:kaspora_seeds=§r§fСемена каспоры §a[Необычное]
+item.arx:karelo_seeds=§r§fСемена карело §a[Необычное]
+item.arx:dragon_pion_seeds=§r§fСемена драконьего пиона §b[Редкое]
+
+## Растения - CU
+
+item.arx:rice_ear=§r§fКолос риса §7[Обычное]
+item.arx:rice_seeds=§r§fСемена риса §7[Обычное]
+
+item.arx:karrec_peper=§r§fПерец карреца §g[Эпическое]
+item.arx:karrec_seed=§r§fСемя карреца §g[Эпическое]
+
+## Растения - Minecraft + CU 
+
+item.arx:sweet_berries_seeds=§r§fСемена сладких ягод §7[Обычное]
+
+## Блоки - CU
+
+
+

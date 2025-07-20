@@ -25,6 +25,27 @@
         },
         "karrec_seed":{
             "textures":"textures/items/nature/seeds/karrec_seed"
+        },
+        "young_wine":{
+            "textures":"textures/items/alchemy/alcohol/young_wine"
+        },
+        "ordinary_wine":{
+            "textures":"textures/items/alchemy/alcohol/ordinary_wine"
+        },
+        "seasoned_wine":{
+            "textures":"textures/items/alchemy/alcohol/seasoned_wine"
+        },
+        "vintage_wine":{
+            "textures":"textures/items/alchemy/alcohol/vintage_wine"
+        },
+        "collection_wine":{
+            "textures":"textures/items/alchemy/alcohol/collection_wine"
+        },
+        "sweet_berries_juice":{
+            "textures":"textures/items/food/sweet_berries_juice"
+        },
+        "default_bottle_sweet_berries_juice":{
+            "textures":"textures/items/food/default_bottle_sweet_berries_juice"
         }
         
 

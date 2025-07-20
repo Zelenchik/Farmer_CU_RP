@@ -102,6 +102,30 @@
         },
             "karrec_8":{
             "textures":"textures/blocks/nature/growing_karrec/karrec_8"
+        },
+       "barrel_bottom":{
+        "textures":"textures/blocks/barrel_bottom"
+       },
+        "w_barrel_top_0":{
+            "textures":"textures/blocks/w_barrel_top_0"
+        },
+         "barrel_side":{
+            "textures":"textures/blocks/barrel_side"
+        },
+        "w_barrel_top_1":{
+            "textures":"textures/blocks/w_barrel_top_1"
+        },
+        "w_barrel_top_2":{
+            "textures":"textures/blocks/w_barrel_top_2"
+        },
+        "w_barrel_top_3":{
+            "textures":"textures/blocks/w_barrel_top_3"
+        },
+        "w_barrel_top_4":{
+            "textures":"textures/blocks/w_barrel_top_4"
+        },
+        "w_barrel_top_5":{
+            "textures":"textures/blocks/w_barrel_top_5"
         }
     }
     
