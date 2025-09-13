@@ -46,6 +46,12 @@
         },
         "default_bottle_sweet_berries_juice":{
             "textures":"textures/items/food/default_bottle_sweet_berries_juice"
+        },
+        "karrec_peper":{
+            "textures":"textures/items/nature/crop/karrec_peper"
+        },
+        "rice_ear":{
+            "textures":"textures/items/nature/crop/rice_ear"
         }
         
 
