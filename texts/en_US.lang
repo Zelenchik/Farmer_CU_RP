@@ -18,12 +18,26 @@ item.arx:many_collection_wine=§r§fМного коллекционого вин
 
 ## Растения - ARX
 
+item.arx:day_kosk_seeds=§r§fСемена дневного коска §7[Обычное]
+item.arx:fioletic_seeds=§r§fСемена фиолетика §7[Обычное]
+item.arx:fiuli_seeds=§r§fСемена фиули §7[Обычное]
+item.arx:fok_seeds=§r§fСемена фока §7[Обычное]
+item.arx:golden_hay_seeds=§r§fСемена злотоколоса §7[Обычное]
+item.arx:jackal_grass_seeds=§r§fСемена травы шакала §7[Обычное]
+item.arx:kari_seeds=§r§fСемена кари §7[Обычное]
+item.arx:mp_flower_seeds=§r§fСемена цветка маны §7[Обычное]
+item.arx:night_kosk_seeds=§r§fСемена ночного коска §7[Обычное]
+item.arx:snowflower_seeds=§r§fСемена снегоцвета §7[Обычное]
+item.arx:wolf_death_seeds=§r§fСемена вольчей погибели §7[Обычное]
+item.arx:yuan_seeds=§r§fСемена юаня §7[Обычное]
 item.arx:kavra_seeds=§r§fСемена кавры §7[Обычное]
 item.arx:kaspora_seeds=§r§fСемена каспоры §a[Необычное]
 item.arx:karelo_seeds=§r§fСемена карело §a[Необычное]
 item.arx:dragon_pion_seeds=§r§fСемена драконьего пиона §b[Редкое]
 
 ## Растения - CU
+
+item.arx:blueberry=§r§fГолубика §7[Обычное]
 
 item.arx:rice_ear=§r§fКолос риса §7[Обычное]
 item.arx:rice_seeds=§r§fСемена риса §7[Обычное]
