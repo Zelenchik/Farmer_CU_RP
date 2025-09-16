@@ -26,6 +26,44 @@
         "karrec_seed":{
             "textures":"textures/items/nature/seeds/karrec_seed"
         },
+        "mp_flower_seeds":{
+            "textures":"textures/items/nature/seeds/mp_flower_seeds"
+        },
+        "yuan_seeds":{
+            "textures":"textures/items/nature/seeds/yuan_seeds"
+        },
+        "day_kosk_seeds":{
+            "textures":"textures/items/nature/seeds/day_kosk_seeds"
+        },
+        "fioletic_seeds":{
+            "textures":"textures/items/nature/seeds/fioletic_seeds"
+        },
+        "fiuli_seeds":{
+            "textures":"textures/items/nature/seeds/fiuli_seeds"
+        },
+        "fok_seeds":{
+            "textures":"textures/items/nature/seeds/fok_seeds"
+        },
+        "golden_hay_seeds":{
+            "textures":"textures/items/nature/seeds/golden_hay_seeds"
+        },
+        "jackal_grass_seeds":{
+            "textures":"textures/items/nature/seeds/jackal_grass_seeds"
+        },
+        "kari_seeds":{
+            "textures":"textures/items/nature/seeds/kari_seeds"
+        },
+        "night_kosk_seeds":{
+            "textures":"textures/items/nature/seeds/night_kosk_seeds"
+        },
+        "snowflower_seeds":{
+            "textures":"textures/items/nature/seeds/snowflower_seeds"
+        },
+        "wolf_death_seeds":{
+            "textures":"textures/items/nature/seeds/wolf_death_seeds"
+        },
+
+
         "young_wine":{
             "textures":"textures/items/alchemy/alcohol/young_wine"
         },
@@ -41,17 +79,24 @@
         "collection_wine":{
             "textures":"textures/items/alchemy/alcohol/collection_wine"
         },
+
+
         "sweet_berries_juice":{
             "textures":"textures/items/food/sweet_berries_juice"
         },
         "default_bottle_sweet_berries_juice":{
             "textures":"textures/items/food/default_bottle_sweet_berries_juice"
         },
+
+
         "karrec_peper":{
             "textures":"textures/items/nature/crop/karrec_peper"
         },
         "rice_ear":{
             "textures":"textures/items/nature/crop/rice_ear"
+        },
+        "blueberry":{
+            "textures":"textures/items/nature/crop/blueberry"
         }
         
 
