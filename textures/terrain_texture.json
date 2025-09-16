@@ -336,6 +336,12 @@
         },
         "w_barrel_top_5":{
             "textures":"textures/blocks/w_barrel_top_5"
+        },
+        "juicer":{
+            "textures":"textures/blocks/crafting_tables/juicer"
+        },
+        "globe":{
+            "textures":"textures/blocks/globe"
         }
     }
     
